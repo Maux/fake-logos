@@ -1,2 +1,2 @@
 # fake-logos
-fake logos in svg for web projects dev
+fake logos in svg for web projects developments
