@@ -3,7 +3,11 @@ fake logos in svg for web projects developments
 
 | Logo          | File          | CDN jsDelivr |
 | ------------- |:-------------:| ------------ | 
-| ![Fake Logo 01](fake_logo_01.svg "Fake Logo 01") | fake_logo_01.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake_logo_01.svg> |
-| ![Fake Logo 02](fake_logo_02.svg "Fake Logo 02") | fake_logo_02.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake_logo_02.svg> |
-| ![Fake Logo 03](fake_logo_03.svg "Fake Logo 03") | fake_logo_03.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake_logo_03.svg> |
-| ![Fake Logo 04](fake_logo_04.svg "Fake Logo 04") | fake_logo_04.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake_logo_04.svg> |
+| ![Fake Logo 01](fake-logo-001.svg "Fake Logo 01") | fake-logo-001.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake-logo-001.svg> |
+| ![Fake Logo 02](fake-logo-002.svg "Fake Logo 02") | fake-logo-002.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake-logo-002.svg> |
+| ![Fake Logo 03](fake-logo-003.svg "Fake Logo 03") | fake-logo-003.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake-logo-003.svg> |
+| ![Fake Logo 04](fake-logo-004.svg "Fake Logo 04") | fake-logo-004.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake-logo-004.svg> |
+| ![Fake Logo 05](fake-logo-005.svg "Fake Logo 05") | fake-logo-005.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake-logo-005.svg> |
+| ![Fake Logo 06](fake-logo-006.svg "Fake Logo 06") | fake-logo-006.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake-logo-006.svg> |
+| ![Fake Logo 07](fake-logo-007.svg "Fake Logo 07") | fake-logo-007.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake-logo-007.svg> |
+| ![Fake Logo 08](fake-logo-008.svg "Fake Logo 08") | fake-logo-008.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake-logo-008.svg> |
