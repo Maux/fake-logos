@@ -11,3 +11,9 @@ fake logos in svg for web projects developments
 | ![Fake Logo 06](fake-logo-006.svg "Fake Logo 06") | fake-logo-006.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake-logo-006.svg> |
 | ![Fake Logo 07](fake-logo-007.svg "Fake Logo 07") | fake-logo-007.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake-logo-007.svg> |
 | ![Fake Logo 08](fake-logo-008.svg "Fake Logo 08") | fake-logo-008.svg | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/fake-logo-008.svg> |
+
+Json Files with fake user's data (PT-BR) for tests...
+| Json File     | Description   | CDN jsDelivr |
+| ------------- | ------------- | ------------ | 
+| FakeData_UserList_0030.json | 30 register in list mode | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/FakeData_UserList_0030.json> |
+| FakeData_UserNested_0030.json | 30 register in nested mode | <https://cdn.jsdelivr.net/gh/Maux/fake-logos/FakeData_UserNested_0030.json> |
